@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OktaAuthorizationForMobile", "OktaAuthorizationForMobile\OktaAuthorizationForMobile.csproj", "{E1B207A9-39C9-41E1-8436-E79691438CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OktaSecuredApi", "OktaSecuredApi\OktaSecuredApi.csproj", "{11DA22F3-0314-45AC-BEF6-08304CAB7762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B207A9-39C9-41E1-8436-E79691438CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B207A9-39C9-41E1-8436-E79691438CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B207A9-39C9-41E1-8436-E79691438CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B207A9-39C9-41E1-8436-E79691438CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11DA22F3-0314-45AC-BEF6-08304CAB7762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DA22F3-0314-45AC-BEF6-08304CAB7762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DA22F3-0314-45AC-BEF6-08304CAB7762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DA22F3-0314-45AC-BEF6-08304CAB7762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57EA0523-FA25-45D7-B1CA-CA8BBCF95884}
+	EndGlobalSection
+EndGlobal
